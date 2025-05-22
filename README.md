@@ -26,3 +26,13 @@ This project is a Buy-Sell platform designed exclusively for the IIIT Community,
 ## Record
 
 - mongodb+srv://devjkanani:dev_kanani@cluster0.uqu1c.mongodb.net/products?retryWrites=true&w=majority&appName=Cluster0
+
+### Add .env in backend
+
+MONGO_URI=mongodb+srv://devjkanani:ycKZ3bJy3dm8B52h@cluster0dass.pigcf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0DASS
+
+JWT_SECRET=1613
+
+GEMINI_API_KEY=AIzaSyANz5zi7e_6stibZMJdz2zvrj0h36B3R2M
+
+FRONTEND_URL=http://localhost:5000
